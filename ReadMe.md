@@ -7,6 +7,7 @@
 本卡面设计仅作为个人学习和交流使用，不代表任何官方立场，同时禁止一切形式的商用行为。
 
 项目时间：2022/9/8
+![印刷成品图预览](https://github.com/Muggle-akko/HFUT-CardReDesign/blob/main/%E5%8D%B0%E5%88%B7%E6%88%90%E5%93%81%E5%9B%BE.png)
 
 ---
 
